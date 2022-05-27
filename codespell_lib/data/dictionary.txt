@@ -9066,6 +9066,8 @@ declartiuve->declarative
 declartive->declarative
 declartor->declarator
 declartors->declarators
+declaratoin->declaration
+declaratoins->declarations
 declataions->declarations
 declatation->declaration
 declatations->declarations
